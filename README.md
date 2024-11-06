@@ -1,4 +1,5 @@
-
+FLOTSAM BY AMINA NUHU
+Flotsam (noun) - 'the wreckage of a ship or its cargo found floating on or washed up by the sea.'
 EXTENSION WITH ADDITIONAL REOURCES
 with extension and additional resources I would add more sound elements to the game; such as more sound effects to more assets and additional background music. I would also include way more levels on the game that increase in difficulty for more player progression and narrative development. I would also improve the graphics of the game if possible to make the game generally more cohesive. I would also add animation. For example in my cutscene I would animate the text to appear on the screen like a typewriter. I would also expand and develop the game's narrative by giving each additional level a different loaction, while still maintaining the underwater/ocean theme and aesthetic. In each additional level I could give the player level-up assets such as, coin boosters, power surges, shields, weapons and so on. 
 
