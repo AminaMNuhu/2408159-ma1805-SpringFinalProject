@@ -1,9 +1,13 @@
 FLOTSAM BY AMINA NUHU
+
 Flotsam (noun) - 'the wreckage of a ship or its cargo found floating on or washed up by the sea.'
+
 EXTENSION WITH ADDITIONAL REOURCES
+
 with extension and additional resources I would add more sound elements to the game; such as more sound effects to more assets and additional background music. I would also include way more levels on the game that increase in difficulty for more player progression and narrative development. I would also improve the graphics of the game if possible to make the game generally more cohesive. I would also add animation. For example in my cutscene I would animate the text to appear on the screen like a typewriter. I would also expand and develop the game's narrative by giving each additional level a different loaction, while still maintaining the underwater/ocean theme and aesthetic. In each additional level I could give the player level-up assets such as, coin boosters, power surges, shields, weapons and so on. 
 
 ACCOUNT OF GAME DEVELOPMENT 
+
 I began the development of this game by creating all the pixel art for the game’s sprites and assets for an underwater ocean themed game (except the level one and two background). I used software such as Pixilart and Adobe Photoshop to achieve my pixel art, all of which is attached to the game folder and can be viewed individually on there. I then implemented my pixel art onto the game by beginning the coding process on Visual Studio Code. I decided to use pixel art to give the game a retro/1980s aesthetic similar to Super Mario Bros. To aid my coding process I followed the module’s demo to create a side scroller tile map-based game, p5.js examples, as well as, many Javascript and p5.js coding YouTube videos (notable mention 'The Coding Train' YouTube channel) and other resources online. I found sound effects for my assets online (visible on this folder) and downloaded background music online from artists and songs I like. I chose songs that I thought were reminiscent of 'nintendo music' as well as hip-hop beats to add the the 'retro' aesthetic :
 Swallow by Casiopea, Rush by Seatbelts, America's Most Blunted (instrumental) by Madvillain and Sofa King (instrumental) by MF DOOM
 
